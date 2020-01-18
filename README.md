@@ -1,2 +1,3 @@
-# time-protocol-example
-Time protocol example.
+# Time Protocol Example
+
+https://huangyijie.com/2020/01/18/time-protocol/
